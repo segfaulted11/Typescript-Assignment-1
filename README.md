@@ -19,7 +19,7 @@ Asynchronous programming with Promises
 Blog Posts:
 The following blog posts are included in this repository:
 
-Type Aliases vs Interfaces in TypeScript
+Access Modifiers in TypeScript
 Type Narrowing in TypeScript
 
 Technologies Used :
